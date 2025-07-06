@@ -1,13 +1,6 @@
-# Principle of Being Professional 2568
+# Topics
 
-   <iframe width="560" height="315"
-src="https://www.youtube.com/embed/fzM7GbWFKYA" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+## Looker studio
 
-   <iframe width="560" height="315"
-src="https://www.youtube.com/embed/fzM7GbWFKYA?start=288" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+- [HTML](/src/T01_looker_studio/T01.html)
+- [PDF](/src/T01_looker_studio/T01.pdf)

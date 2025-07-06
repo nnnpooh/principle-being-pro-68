@@ -1,0 +1,25 @@
+{
+  "name": "principle-being-pro-68",
+  "version": "1.0.0",
+  "description": "<iframe width=\"560\" height=\"315\"\r src=\"https://www.youtube.com/embed/fzM7GbWFKYA\" \r frameborder=\"0\" \r allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" \r allowfullscreen></iframe>",
+  "main": "index.js",
+  "scripts": {
+    "html": "npx marp --html",
+    "pdf": "npx marp --pdf --allow-local-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnnpooh/principle-being-pro-68.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnnpooh/principle-being-pro-68/issues"
+  },
+  "homepage": "https://github.com/nnnpooh/principle-being-pro-68#readme",
+  "dependencies": {
+    "@marp-team/marp-cli": "^4.2.0",
+    "@marp-team/marpit": "^3.1.3"
+  }
+}
