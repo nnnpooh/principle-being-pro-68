@@ -11,5 +11,9 @@
 
 - [HTML](/src/T02_design_thinking/T02.html)
 - [PDF](/src/T02_design_thinking/T02.pdf)
-- [Looker Studio Data](https://lookerstudio.google.com/datasources/2268e52a-ce2d-4ee8-8e50-eacb9bdf2c91)
-- [Excel Data](/src/T02_design_thinking/shopee_orders_small.xlsx)
+- Data
+  - [Looker Studio Data](https://lookerstudio.google.com/datasources/2268e52a-ce2d-4ee8-8e50-eacb9bdf2c91)
+  - [Excel Data](/src/T02_design_thinking/shopee_orders_small.xlsx)
+- Team
+  - [Excalidraw](https://excalidraw.com/)
+  - [Sharing Link](https://docs.google.com/spreadsheets/d/14f-nizu1duEimAjODL_x-3q8WVElS5yzjf5g0OzTRoI/edit?usp=sharing)
